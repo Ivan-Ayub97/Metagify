@@ -38,7 +38,6 @@ For bug reports or suggestions, contact me at: [negroayub97@gmail.com](mailto:ne
 
 - Supports `.mp3`, `.flac`, `.m4a`, `.ogg` files
 - Edit title, artist, album, year, genre, track number, comments
-- Single or batch editing
 
 ### 🖼️ Album Art
 
