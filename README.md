@@ -1,4 +1,4 @@
-Download the EXE from Google Drive: https://drive.google.com/file/d/1noVr8WXN2tWL-xoOV3PKoUF0mCyapiUl/view?usp=sharing
+Download the EXE from [Google Drive](https://drive.google.com/file/d/1noVr8WXN2tWL-xoOV3PKoUF0mCyapiUl/view?usp=sharing)
 ![Metatag](Banner.png)
 
 A modern audio metadata editor with **MusicBrainz** integration, cover art support, and an intuitive interface
