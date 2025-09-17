@@ -4,12 +4,13 @@
 
 ### _An Enhanced Audio Metadata Editor_
 
-[![Build Status](https://img.shields.io/badge/Build-Stable_Release-0A192F?style=for-the-badge&logo=github&logoColor=FFD700)](#)
-[![Version](https://img.shields.io/badge/Version-1.0-FF8C00?style=for-the-badge&logo=git&logoColor=white)](v1.0)
+[![Build Status](https://img.shields.io/badge/Build-Stable_Release-0A192F?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Ivan-Ayub97/Metagify)
+[![Version](https://img.shields.io/badge/Version-1.0-FF8C00?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Ivan-Ayub97/Metagify/releases/tag/v1.0)
 [![License](https://img.shields.io/badge/License-MIT-6A0DAD?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/Ivan-Ayub97/Metagify?style=for-the-badge&color=FF4500&logo=github&logoColor=white)](https://github.com/Ivan-Ayub97/Metagify/issues)
-[![Downloads](https://img.shields.io/github/downloads/Ivan-Ayub97/Metagify/total?style=for-the-badge&color=FFD700&logo=github&logoColor=black)](https://github.com/Ivan-Ayub97/Metagify/releases)
+[![Downloads](https://img.shields.io/github/downloads/Ivan-Ayub97/Metagify/total?style=for-the-badge&color=FFD700&logo=download&logoColor=black)](https://github.com/Ivan-Ayub97/Metagify/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/Ivan-Ayub97/Metagify?style=for-the-badge&color=2E8B57&logo=git&logoColor=white)](https://github.com/Ivan-Ayub97/Metagify/commits/main)
+
 
 _A professional, feature-rich tool for managing your music collection's tags and album art._
 
@@ -115,4 +116,5 @@ We welcome contributions from the community, whether through bug reports, featur
 Licensed under **MIT**.
 
 </div>
+
 
