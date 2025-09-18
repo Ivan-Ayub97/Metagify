@@ -10,6 +10,8 @@
 [![Issues](https://img.shields.io/github/issues/Ivan-Ayub97/Metagify?style=for-the-badge&color=FF4500&logo=github&logoColor=white)](https://github.com/Ivan-Ayub97/Metagify/issues)
 [![Downloads](https://img.shields.io/github/downloads/Ivan-Ayub97/Metagify/total?style=for-the-badge&color=FFD700&logo=download&logoColor=black)](https://github.com/Ivan-Ayub97/Metagify/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/Ivan-Ayub97/Metagify?style=for-the-badge&color=2E8B57&logo=git&logoColor=white)](https://github.com/Ivan-Ayub97/Metagify/commits/main)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)](https://www.python.org/)
 
 
 _A professional, feature-rich tool for managing your music collection's tags and album art._
@@ -116,5 +118,6 @@ We welcome contributions from the community, whether through bug reports, featur
 Licensed under **MIT**.
 
 </div>
+
 
 
